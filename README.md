@@ -18,11 +18,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Snake animation](https://github.com/kathgomesz/kathgomesz/blob/output/github-contribution-grid-snake.svg)
-
+<div style="margin-left: 100 px; margin-top: 1000 px;">
+  <img src="https://github.com/kathgomesz/kathgomesz/assets/143855774/e52315cd-022d-4d01-a443-474ed20a3cf7" width="200px" />
+</div>
 
 
 <!---
+![Snake animation](https://github.com/kathgomesz/kathgomesz/blob/output/github-contribution-grid-snake.svg)
 <div align "center"> <img src="https://github.com/kathgomesz/kathgomesz/assets/143855774/e52315cd-022d-4d01-a443-474ed20a3cf7"  width ="200px" />  </div>
 
 - 👋 Hi, I’m @kathgomesz
